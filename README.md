@@ -33,4 +33,26 @@ The website provides information about the company, its products, team, and cont
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/kenafric-company-website.git
+git clone https://github.com/mudezmahmoud-netizen/kenafric  
+
+## Screenshots
+
+### Home Page
+
+![Home Page](images/homepage.png)
+
+### Products Section
+
+![Products Section](images/products.png)
+
+### About / Team
+
+![About Team](images/about.png)
+
+### Contact Form
+
+![Contact Form](images/contact.png)
+
+### Footer
+
+![Footer](images/footer.png)
