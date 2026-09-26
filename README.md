@@ -2,7 +2,7 @@
 
 ## Project Brief
 
-This project is a responsive company website created for Kenafric Industries.
+This project is a responsive company website created for Kenafric.
 
 The website provides information about the company, its products, team, and contact details. It also includes a responsive navigation menu and an accessible contact form.
 
