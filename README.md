@@ -56,3 +56,36 @@ git clone https://github.com/mudezmahmoud-netizen/kenafric
 ### Footer
 
 ![Footer](images/footer.png)
+## Business Rationale
+
+The purpose of this website is to provide the company with a professional online presence.
+
+The website allows customers and visitors to:
+
+- Learn about the company
+- Explore its products and services
+- Learn about the team
+- Find contact information
+- Contact the company through the contact form
+- Access the website on different devices
+
+The responsive design makes the website accessible on mobile phones, tablets, and desktop computers. The clear navigation and organized content help visitors find information easily.
+
+The website also uses accessibility and SEO-friendly practices to make the content easier to access and understand 
+
+
+
+
+<h1>Kenafric Industries</h1>
+
+<h2>Our Products</h2>
+
+<h3>Confectionery</h3>
+<h3>Beverages</h3>
+<h3>Footwear</h3>
+
+<h2>About Us</h2>
+
+<h3>Our Team</h3>
+
+<h2>Contact Us</h2>
