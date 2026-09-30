@@ -1,1 +1,23 @@
+  <!--3. About / Team Section-->
+            <section id="about">
+                <h2>ABOUT US</h2>
+
+                <p> Kenafric is a Kenyan company involved
+                    in manufacturing and consumer products.
+                </p>
+
+                <h3>OUR TEAM</h3>
+
+                <article>
+                    <h4>MANAGING DIRECTOR</h4>
+                    <p>Company leadership and strategic management.</p>
+                </article>
+
+                <article>
+                    <h4>PRODUCTION TEAM</h4>
+                    <p>Responsible for manufacturing and quality control.</p>
+                </article>
+            </section>
+
+           
 

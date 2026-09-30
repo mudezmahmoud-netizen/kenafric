@@ -1,1 +1,30 @@
+.hero {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 40px;
+    padding: 60px;
+    background-color: #f5f5f5;
+}
 
+.hero-content {
+    width: 50%;
+}
+
+.hero-content h1 {
+    font-size: 45px;
+    margin-bottom: 20px;
+}
+
+.hero-content p {
+    font-size: 18px;
+}
+
+.hero-image {
+    width: 45%;
+}
+
+.hero-image img {
+    width: 100%;
+    height: auto;
+}

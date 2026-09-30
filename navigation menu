@@ -1,1 +1,13 @@
+  <!-- Header and Navigation -->
+        <header>
+            <h1>KENAFRIC</h1>
 
+            <nav>
+                <a href="#home">home</a>
+                <a href="#services">services</a>
+                <a href="#contact">contact</a>
+                <a href="#about">about</a>
+
+            </nav>
+
+        </header>

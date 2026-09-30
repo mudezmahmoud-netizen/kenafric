@@ -1,1 +1,9 @@
+ </body>
+    <section>id="products">
+        <h2>OUR PRODUCTS</h2>
 
+        <img src="images/products"
+            alt="fresh banana.jpg">
+
+        <p>explore our range of quality products</p>
+    </section>

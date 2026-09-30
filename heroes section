@@ -1,1 +1,11 @@
+<!-- 1. Hero Section -->
 
+        <main>
+
+            <section id="home">
+                <h2>QUALITIY PRODUCTS FOR EVERYDAY LIFE</h2>
+
+                <p>kenafric is commited to providing quality products across africa</p>
+
+                <a href="#services">explore our product</a>
+            </section>

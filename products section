@@ -1,1 +1,25 @@
+ <!-- 2. Services / Products Section -->
+            <section id="services">
+                <h2>OUR PRODUCTS</h2>
+
+                <section>
+                    <h3>CONFECTIONARY</h3>
+                    <p>we provide a variety of sweets and confectionary for customers</p>
+                </section> 
+
+                <article>
+                    <h3>BEVERAGES</h3>
+                    <p>
+                        Our beverage products provide refreshing choices
+                        for consumers.
+                    </p>
+                </article>
+
+                <article>
+                    <h3>FOOTWEAR</h3>
+                    <p>
+                        we produce footwear designed for everyday use
+                    </p>
+                </article>
+            </section>
 
