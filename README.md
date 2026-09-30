@@ -1,4 +1,4 @@
-# Kenafric  Website
+# Kenafric Website
 
 ## Project Brief
 
@@ -33,7 +33,7 @@ The website provides information about the company, its products, team, and cont
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/mudezmahmoud-netizen/kenafric  
+git clone https://github.com/mudezmahmoud-netizen/kenafric
 
 ## Screenshots
 
@@ -71,21 +71,10 @@ The website allows customers and visitors to:
 
 The responsive design makes the website accessible on mobile phones, tablets, and desktop computers. The clear navigation and organized content help visitors find information easily.
 
-The website also uses accessibility and SEO-friendly practices to make the content easier to access and understand 
+The website also uses accessibility and SEO-friendly practices to make the content easier to access and understand
 
 
 
 
-<h1>Kenafric Industries</h1>
 
-<h2>Our Products</h2>
-
-<h3>Confectionery</h3>
-<h3>Beverages</h3>
-<h3>Footwear</h3>
-
-<h2>About Us</h2>
-
-<h3>Our Team</h3>
-
-<h2>Contact Us</h2>
+```
